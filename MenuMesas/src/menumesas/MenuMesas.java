@@ -162,7 +162,6 @@ public class MenuMesas {
         }
 
         // Abrimos el fichero de texto para sobreescribirlo
-        // Eliminaremos la li­nea 3
         try {
             FileWriter writer = new FileWriter(fichero);
 
