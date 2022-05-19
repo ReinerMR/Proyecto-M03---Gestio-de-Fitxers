@@ -190,7 +190,7 @@ public class MenuMesas {
             FileWriter writer = new FileWriter(fichero);
 
             for (String linea : lineas) {
-                if (!lineaeliminada.equals(linea.substring(0, 2))) {
+                if (!lineaeliminada.equals(linea.substring(0, 3))) {
                     writer.write(linea + "\n");
                 }
             }
