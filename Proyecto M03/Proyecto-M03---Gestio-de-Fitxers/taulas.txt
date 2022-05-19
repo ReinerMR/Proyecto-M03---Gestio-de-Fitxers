@@ -1,0 +1,6 @@
+T_1;Taula_Jardí;6;si;5;no;si
+T_2;Taula_Interior;4;no;4;si;no
+T_3;Taula_Familiar;12;si;11;si;no
+T_4;Taula_Exterior;6;no;6;si;si
+T_5;Taula_Cita;2;no;2;si;si
+T_6;Taula_Personal;1;no;1;si;no
