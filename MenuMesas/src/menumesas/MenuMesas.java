@@ -112,7 +112,7 @@ public class MenuMesas {
         System.out.print("¿Esta en el jardin? ");
         String jardin = lector.next();
 
-        String nuevaMesa = id + ";" + descripcion + ";" + numeroSillas ";" + bb + ";" + sillasAdultos + ";" + ventilador + ";" + jardin;
+        String nuevaMesa = id + ";" + descripcion + ";" + numeroSillas + ";" + bb + ";" + sillasAdultos + ";" + ventilador + ";" + jardin;
         return nuevaMesa;
     }
     
